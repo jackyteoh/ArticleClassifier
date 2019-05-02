@@ -1,4 +1,5 @@
 # ArticleClassifier
 Neural network to classify articles by their titles 
 
-Articles obtained from BBC's dataset
+Articles obtained from BBC's dataset:
+http://mlg.ucd.ie/datasets/bbc.html
