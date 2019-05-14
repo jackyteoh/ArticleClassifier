@@ -17,8 +17,13 @@ Highest accuracy found was ~78%.
 
 # Future Work
 Design a neural network utilizing the entirety of the article itself; should drastically increase the accuracy.
-For new found words in the testing documents, create a proxy feature that holds new words
-Discard common words that don't really contribute to the classification aspect (to, from, a, the, etc.)
+
+For new found words in the testing documents, create a proxy feature that holds new words.
+
+Discard common words that don't really contribute to the classification aspect (to, from, a, the, etc.).
+
 Collapse stemming words with different versions of verbs such as ran, running, run into just run.
-Synonym expansion - collapse synonyms into just one feature: joy, content, happiness, jolly into happy
-Utilize more training and testing data to improve accuracy
+
+Synonym expansion - collapse synonyms into just one feature: joy, content, happiness, jolly into happy.
+
+Utilize more training and testing data to improve accuracy.
